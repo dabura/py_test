@@ -1,7 +1,6 @@
 import re
 import io
 
-
 #2016.11.18. 22:20:58: ERROR: A00332985729: System.Exception: NFW hiba (Warning): ErrorOperationFailed
 lines = io.open(r'log_sbsvc_20161118_ERROR.log')
 i = 0
